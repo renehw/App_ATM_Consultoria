@@ -31,7 +31,7 @@
     </a>
     <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
   </h2>
-    <p>Este é um projeto desenvolvido em <a href="https://flutter.dev/" rel="nofollow">Flutter</a>, este app tem o intuito de fazer com que o usuário jogue com o próprio computador de maneira bem simples, selecionando uma das figuras referente à pedra, papel ou tesoura o app armazena sua escolha e compara com a escolha feita pela máquina, assim retornando o vencedor.</p>
+    <p>Este é um projeto desenvolvido em <a href="https://flutter.dev/" rel="nofollow">Flutter</a>, este aplicativo apresenta uma inferface de navegação entre as telas do app, ao clicar em uma das opções o app abre a pagina solicitada, temos como ilustração 4 telas, clientes, contatos, informações sobre a empresa e serviços.</p>
   <hr></hr>
   
   <h2>
